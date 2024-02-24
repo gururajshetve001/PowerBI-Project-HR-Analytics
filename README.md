@@ -1,2 +1,5 @@
-The Excel Project - Vrinda Store Data Analysis involves leveraging Microsoft Excel to analyze and interpret data from Vrinda Store. 
-This project aims to extract valuable insights, trends, and patterns, providing a comprehensive view of the store's performance through datadriven decision-making.
+
+## Overview
+This Power BI project focuses on HR analytics, leveraging data visualization to analyze workforce trends, employee performance, and
+recruitment metrics. Through dynamic dashboards and insightful reports, it aims to provide actionable insights for strategic HR
+decision-making, ultimately enhancing organizational efficiency and employee satisfaction. 
